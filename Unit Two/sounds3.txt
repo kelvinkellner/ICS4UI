@@ -1,0 +1,23 @@
+quack
+moo
+baa
+neigh
+baa
+oink
+moo
+meow
+oink
+baa
+neigh
+quack
+quack
+quack
+
+
+Old MacDonald has:
+2 cows
+2 horses
+3 sheeps
+4 ducks
+2 pigs
+1 cat

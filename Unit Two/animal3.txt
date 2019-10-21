@@ -1,0 +1,15 @@
+duck
+cow
+sheep
+horse
+sheep
+pig
+cow
+cat
+dog
+pig
+sheep
+horse
+duck
+duck
+duck
