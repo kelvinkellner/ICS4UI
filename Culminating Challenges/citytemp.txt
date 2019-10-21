@@ -1,0 +1,14 @@
+2
+Victoria
+-35
+Winnepeg
+-18
+Montreal
+-5
+Halifax
+-41
+Yellowknife
+3
+Vancouver
+-24
+Kitchener

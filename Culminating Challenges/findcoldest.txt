@@ -1,0 +1,6 @@
+COLD
+Kitchener
+COLDER
+Winnepeg
+COLDEST
+Yellowknife
